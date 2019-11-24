@@ -7,7 +7,33 @@
 
     具有數值 immutable 不可變的概念，意思即『保證不會變更數值』。
 
-# Ops
+# Mathematic Ops
+
+    X+=y
+    
+    ++X
+    
+    X-=y
+    
+    --X
+    
+    X*=y
+    
+    X/=y
+    
+    X%=y
+    
+# Comparison Ops
+
+    x==y
+    
+    x!=y
+    
+    x>=y
+    
+    x<=y
 
 # Assign
+
+
 
